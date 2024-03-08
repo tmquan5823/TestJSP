@@ -1,0 +1,15 @@
+127.0.0.1 - - [08/Mar/2024:15:08:06 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:08:07 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:08:08 +0700] "GET /favicon.ico HTTP/1.1" 404 684
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:25:34 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 87
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:25:52 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 87
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:25:56 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 87
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:27:59 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 152
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:28:37 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 192
+127.0.0.1 - - [08/Mar/2024:15:45:00 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:15:45:01 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 82
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:00:09 +0700] "GET /JSP_Demo/helloword.jsp HTTP/1.1" 200 82
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:07:09 +0700] "GET /JSP_Demo/form.jsp HTTP/1.1" 200 262
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:07:12 +0700] "GET /JSP_Demo/formResponse?Name=Tr%26%237847%3Bn+Minh+Qu%E2n HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:07:44 +0700] "GET /JSP_Demo/form.jsp HTTP/1.1" 200 266
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:07:47 +0700] "GET /JSP_Demo/formResponse.jsp?Name=Tr%26%237847%3Bn+Minh+Qu%E2n HTTP/1.1" 200 166
